@@ -4,3 +4,4 @@ ghost/source.private
 pdfs/*/*
 !pdfs/*/.gitkeep
 Input.xlsx
+**/*.lock

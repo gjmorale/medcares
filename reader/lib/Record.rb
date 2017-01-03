@@ -19,7 +19,7 @@ class Record
 	end
 
 	def inspect
-		"#{name}"
+		to_s
 	end
 
 	def print
